@@ -9,6 +9,12 @@
 - My pyhton scripts
   - [Reminders](https://github.com/eyalcha/ha-reminder)
   
+- My 3D designs
+  - [Fake camera adapter for ESP32-CAM](https://www.thingiverse.com/thing:4761459)
+  - [Bedside lamp](https://www.thingiverse.com/thing:4755869)
+  - [Wemos D1 & Relay for Din Rail](https://www.thingiverse.com/thing:4281153)
+  - [PZEM 004T V3 Din Rail Case](https://www.thingiverse.com/thing:4260260)
+  
 <!--
 **eyalcha/eyalcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
